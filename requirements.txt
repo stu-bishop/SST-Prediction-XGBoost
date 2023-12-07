@@ -8,4 +8,4 @@ datetime
 netCDF4
 matplotlib
 xgboost
-sklearn
+scikit-learn
