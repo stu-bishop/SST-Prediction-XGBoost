@@ -1,0 +1,11 @@
+jupyter
+ipython
+numpy
+xarray
+pandas
+seaborn
+datetime
+netCDF4
+matplotlib
+xgboost
+sklearn
